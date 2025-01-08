@@ -1,0 +1,112 @@
+attribute_id,attribute_name,attribute_order,status,attribute_type,display_name,field_name,values,is_required,is_integer,is_multiselect,updated_by,updated_date
+1,"Hand Rolled?
+",1,active,CheckBox,"Hand Rolled?
+",hand_roled,false,0,0,0,1,"2021-07-06 04:04:05"
+2,"Flavored?
+",4,active,CheckBox,"Flavored?
+",flavored,false,1,0,0,1,"2021-07-06 04:04:05"
+3,Flavoring,5,active,DropDown,Flavoring,flavoring,"Cherry,Chocolate,Bourbon,Mint,Coffee,Mandarin",0,0,0,1,"2021-07-06 04:04:46"
+4,"Shape
+ (Cigar)",6,active,DropDown,Shape,shape,"Belicoso,Chisel,Culebra,Diademas,Figurado,Flat,Lancero,Perfecto,Pigtail,Pyramid,Regular,Torpedo,Various",1,0,0,1,"2021-07-06 04:04:46"
+5,"Length
+",7,active,TextBox,"Length
+",length,,1,1,0,1,"2021-07-06 04:04:46"
+6,"Ring Gauge
+",9,active,TextBox,"Ring Gauge
+",ring_guage,NULL,1,1,0,1,"2021-07-06 04:04:46"
+7,"Box Press?
+",2,active,CheckBox,"Box Press?
+",box_press,false,0,0,0,1,"2021-07-06 04:04:46"
+8,Dress,10,active,DropDown,Dress,dress,"Cellophane,Naked,Tube(glass),Tube(metal),Tube(wood),Paper",0,0,0,1,"2021-07-06 04:04:46"
+9,"Wrapper
+",12,active,DropDown,"Wrapper
+",wrapper,"African,Argentina,Brazilian,Cameroon,Candela,Claro,Colorado,Columbia,Connecticut,Connecticut Broadleaf,Connecticut Habano,Connecticut Shade,Corojo,Costa Rica,Criollo,Dominican,DOUBLE Claro,DOUBLE Maduro,Ecuador,Ecuadorian Connecticut,Ecuadorian Habano,Ecuadorian Sumatra,EMS,Habano,Havana Seed,Honduran,Indonesian,Italy,Jamaica,Ligero,Maduro,Mexico,NATURAL,Nicaraguan,Oscuro,Panama,Pennsylvania Broadleaf,Peru,Phillipines,Rosado,San Andres,San Andres Oscuro,Sumatra,Sun Grown,Syria,Triple Maduro,Undisclosed,Various",0,0,1,1,"2021-07-06 04:04:46"
+10,"Binder
+",13,active,DropDown,"Binder
+",binder,"African,Argentina,Brazilian,Cameroon,Candela,Columbia,Connecticut,Connecticut Broadleaf,Connecticut Habano,Connecticut Shade,Corojo,Costa Rica,Criollo,Dominican,Ecuador,Ecuadorian Connecticut,Ecuadorian Habano,Ecuadorian Sumatra,Habano,Havana Seed,Honduran,Indonesian,Italy,Jamaica,Maduro,Mexico,NATURAL,Nicaraguan,Panama,Pennsylvania Broadleaf,Peru,Phillipines,San Andres,San Andres Oscuro,Sumatra,Sun Grown,Syria,Undisclosed, Various",0,0,1,1,"2021-07-06 04:04:46"
+11,"Filler
+",14,active,DropDown,"Filler
+",filler,"African,Argentina,Brazilian,Cameroon,Candela,Columbia,Connecticut,Connecticut Broadleaf,Connecticut Habano,Connecticut Shade,Corojo,Costa Rica,Criollo,Dominican,Ecuador,Ecuadorian Connecticut,Ecuadorian Habano,Ecuadorian Sumatra,Habano,Havana Seed, Honduran,Indonesian,Italy,Jamaica,Maduro,Mexico,NATURAL,Nicaraguan,Panama,Pennsylvania Broadleaf,Peru,Phillipines,San Andres,San Andres Oscuro,Sun Grown,Sumatra,Syria,Undisclosed,Various",0,0,1,1,"2021-07-06 04:04:46"
+12,"Strength
+",15,active,DropDown,"Strength
+",strength,"Mellow,Mellow-Medium,Medium,Medium-Full,Full,Extra Full",1,0,0,1,"2021-07-06 04:04:46"
+13,"Rating
+",16,active,DropDown,"Rating
+",rating,"75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100",0,0,0,1,"2021-07-06 04:04:46"
+14,"Rating Source
+",17,active,DropDown,"Rating Source
+",rating_source,"Cigar & Spirits,Cigar Advisor,Cigar Aficionado,Cigar Authority,Cigar Coop,Cigar Dojo,Cigar Journal,Cigar Obsession,Cigar Snob,Halfwheel, Stogie Press",0,0,0,1,"2021-07-06 04:04:46"
+15,"Cigar Weight",8,active,DropDown,"Cigar Weight",weight,"< 3 lbs,3-4 lbs,> 4lbs",1,0,0,1,"2021-07-22 04:35:18"
+16,"Wrapper Type",11,active,DropDown,"Wrapper Type",wrapper_type,"Natural Leaf,Homogenized",1,0,0,1,"2021-07-22 04:35:38"
+17,Filter?,3,active,CheckBox,Filter?,filter,false,1,0,0,1,"2021-07-22 04:35:55"
+18,"Shape (Ashtray)",18,active,DropDown,Shape,shape_ashtray,"Bowl,Round,Square,Triangle,Rectangle,Unique",1,0,0,1,"2021-07-22 04:35:55"
+19,"Color (Ashtray)",19,active,DropDown,Color,color_ashtray,"Acid Wash,Antique,Assorted,Black,Blue,Brown,Chrome,Clear,Copper,Copper Patina,Cream,Green,Old Patina,Pewter,Purple,Red,Stainless Steel,Various,White",0,0,1,1,"2021-07-22 04:35:55"
+20,"Material (Ashtray)",20,active,DropDown,Material,material_ashtray,"Ceramic,Composite,Glass,Metal,Plastic",1,0,0,1,"2021-07-22 04:35:38"
+21,"Capacity (Ashtray)",21,active,DropDown,Capacity,capacity_ashtray,"1,2,3,4,5+",0,0,0,1,"2021-07-22 04:35:38"
+22,"Use (Ashtray)",22,active,DropDown,Use,use_ashtray,"Cigarettes/Cigarillos,Cigars,Multi-Use",0,0,0,1,"2021-07-22 04:35:38"
+23,"Size (Ashtray)",23,active,DropDown,Size,size_ashtray,"Car,Compact,Floor,Table-Top",0,0,0,1,"2021-12-14 05:20:46"
+24,"Unit Size (ml)",24,active,TextBox,"Unit Size (ml)",unit_size,NULL,1,1,0,1,"2021-12-14 05:20:46"
+25,Filtration,25,active,TextBox,Filtration,filtration,NULL,0,0,0,1,"2021-12-14 05:20:46"
+26,"Fuel Type",26,active,DropDown,"Fuel Type",fuel_type,"Butane,Lighter Fluid",1,0,0,1,"2021-12-14 05:20:46"
+27,Tip,27,active,DropDown,Tip,tip,"Multi,Single",0,0,0,1,"2021-12-14 05:20:46"
+28,"Quantity (Tubes)",28,active,TextBox,Quantity,quantity,NULL,1,1,0,1,"2021-12-14 05:20:46"
+29,"Size (Tubes)",29,active,DropDown,Size,size_tubes,"King,100mm,120mm",1,0,0,1,"2021-12-14 05:20:46"
+30,"Style (Tubes)",30,active,DropDown,Style,style_tubes,"Extra Mellow,Mellow,Natural,Regular,Turkish,Menthol",0,0,0,1,"2021-12-14 05:20:46"
+31,"Paper Quantity (Cigarette Papers)",31,active,TextBox,"Paper Quantity",paper_quantity,NULL,1,1,0,1,"2021-12-14 05:20:46"
+32,"Material (Cigarette Papers)",32,active,DropBox,Material,material_cigarette_papers),"Hemp,Rice,Paper",0,0,0,1,"2021-12-17 02:26:12"
+33,"Size (Cigarette Papers)",33,active,DropDown,Size,size_cigarette_papers,"King,1.25,Single Wide,Double Wide,1.5",1,0,0,1,"2021-07-06 04:04:05"
+34,"Style (Cigerette Papers)",34,active,DropDown,Style,style_cigarette_papers,"Cone,Tip,Parchment,Wick,Standard",0,0,0,1,"2021-07-06 04:04:05"
+35,"Style (Cutters)",35,active,DropDown,Style,style_cutters,"Double Blade,Punch,Scissor,Shuriken,Single Blade,V Cut",1,0,0,1,"2021-07-06 04:04:05"
+36,"Color (Cutters)",36,active,DropDown,Color,color_cutters,"Assorted,Black,Blue,Brown,Camo,Carbon Fiber,Chrome,Copper,Gold,Green,Gunmetal,Orange,Purple,Red,Rose Gold,Silver,Various,White,Yellow",0,0,1,1,"2021-07-06 04:04:05"
+37,"Material (Cutters)",37,active,DropDown,Material,meterial_cutters,"Metal,Plastic",0,0,0,1,"2021-07-06 04:04:05"
+38,"Size (Ring Gauge) (Cutters)",38,active,TextBox,Size,size_cutters,,1,1,0,1,"2021-07-06 04:04:05"
+39,"Style (Humidification)",39,active,DropDown,Style,style_humidification,"Pack,Jar,Disc,Stick,Electronic",1,0,0,1,"2021-07-06 04:04:05"
+40,"Humidify Amount (Humidification)",40,active,TextBox,"Humidify Amount",humidity_amount_humidification,,0,1,0,1,"2021-07-06 04:04:05"
+41,"Humidity Level (Humidification)",41,active,TextBox,"Humidity Level",humidity_level_humidification,,0,1,0,1,"2021-07-06 04:04:05"
+42,"Size (Humidors)",42,active,DropDown,Size,size_humidors,"Travel,Small,Medium,Large,Extra Large,Cabinet",1,0,0,1,"2021-07-06 04:04:05"
+43,"Capacity (Humidors)",43,active,TextBox,Capacity,capacity_humidors,,1,1,0,1,"2021-07-06 04:04:05"
+44,"Color (Multiselect) (Humidors)",44,active,DropDown,Color,color_humidors,"Black,Blue,Bubinga,Burlwood,Camo,Cherrywood,Copper,Ebony,Gold,Green,Mahogany,Orange,Red,Silver,Walnut,White,Yellow",0,0,1,1,"2021-07-06 04:04:05"
+45,"Material (Humidors)",45,active,DropDown,Material,material_humidors,"Plastic,Wood,Metal",0,0,0,1,"2021-07-06 04:04:05"
+46,"Glasstop (Humidors)",46,active,CheckBox,Glasstop,glassto_humidors,false,0,0,0,1,"2021-07-06 04:04:05"
+47,"Flame Style (Lighters & Matches)",47,active,DropDown,"Flame Style",flame_style_lighters_matches,"Torch,Pinpoint,Soft Flame,Match",1,0,0,1,"2021-07-06 04:04:05"
+48,"Color (Multiselect) (Lighters & Matches)",48,active,DropDown,Color,color_lighters_matches,"Assorted,Black,Blue,Brown,Camo,Carbon Fiber,Chrome,Copper,Gold,Green,Gunmetal,Orange,Purple,Red,Rose Gold,Silver,Various,White,Yellow",0,0,1,1,"2021-07-06 04:04:05"
+49,"Additional Tools (Lighters & Matches)",49,active,DropDown,"Additional Tools",additional_tools_lighters_matches,"Punch,V-Cut,Guillotine,Pipe Tools,Bottle Opener,Cigar Stand",0,0,0,1,"2021-07-06 04:04:05"
+50,"Use (Lighters & Matches)",50,active,DropDown,Use,use_lighters_matches,"Pocket,Table",0,0,0,1,"2021-07-06 04:04:05"
+51,"Refillable (Lighters & Matches)",51,active,CheckBox,Refillable,refillable_lighters_matches,false,0,0,0,1,"2021-07-06 04:04:05"
+52,"Flame Quantity (Lighters & Matches)",52,active,TextBox,"Flame Quantity",flame_quantity_lighters_matches,,1,1,0,1,"2021-07-06 04:04:05"
+53,"Fuel (Lighters & Matches)",53,active,DropDown,Fuel,fuel_lighters_matches,"Lighter Fluid,Butane",1,0,0,1,"2021-07-06 04:04:05"
+54,"Country of Origin (Little Cigars)",54,active,DropDown,"Country of Origin",country_of_origin_little_cigars,"America,Bahamas,Brazil,Costa Rica,Dominican Republic,Ecuador,Honduras,Nicaragua,Mexico,Peru,Spain",1,0,0,1,"2021-07-06 04:04:05"
+55,"Strength (Little Cigars)",55,active,DropDown,Strength,strength_little_cigars,"Mellow,Mellow-Medium,Medium,Medium-Full,Full,Extra Full",0,0,0,1,"2021-07-06 04:04:05"
+56,"Wrapper (Little Cigars)",56,active,DropDown,Wrapper,wrapper_little_cigars,"African,Argentina,Brazilian,Cameroon,Candela,Claro,Colorado,Columbia,Connecticut Broadleaf,Costa Rica,DOUBLE Claro,DOUBLE Maduro,Ecuadorian Connecticut,Ecuadorian Sumatra,EMS,Habano,Havana Seed,Homogenized Tobacco Leaf,Indonesian,Italy,Java,Jamaica,Kentucky Fire-Cured,Ligero,Maduro,Mexico,Oscuro,Panama,Peru,Phillipines,Rosado,San Andres,Sumatra,Sun Grown,Syria,Triple Maduro,Undisclosed,Various",0,0,1,1,"2021-07-06 04:04:05"
+57,"Size (Ring Gauge - Little Cigars)",57,active,TextBox,"Size Ring Guage",size_ring_guage_little_cigars,,1,1,0,1,"2021-07-06 04:04:05"
+58,"Size (Length - Little Cigars)",58,active,TextBox,"Size Length",size_length_little_cigars,,1,1,0,1,"2021-07-06 04:04:05"
+59,"Tip (Little Cigars)",59,active,CheckBox,Tip,tip_little_cigars,false,1,0,0,1,"2021-07-06 04:04:05"
+60,"Flavored (Little Cigars)",60,active,CheckBox,Flavored,flavored_little_cigars,false,1,0,0,1,"2021-07-06 04:04:05"
+61,"Wrapper Type (Little Cigars)",61,active,DropDown,"Wrapper Type",wrapper_type_little_cigars,"Natural Leaf,Homogenized",1,0,0,1,"2021-07-06 04:04:05"
+62,"Strength (Machine-Made)",62,active,DropDown,Strength,strength_machine_made,"Mellow,Mellow-Medium,Medium,Medium-Full,Full,Extra Full",0,0,0,1,"2021-07-06 04:04:05"
+63,"Wrapper (Machine-Made)",63,active,DropDown,Wrapper,wrapper_machine_made,"African,Argentina,Brazilian,Cameroon,Candela,Claro,Colorado,Columbia,Connecticut Broadleaf,Costa Rica,DOUBLE Claro,DOUBLE Maduro,Ecuadorian Connecticut,Ecuadorian Sumatra,EMS,Habano,Havana Seed,Homogenized Tobacco Leaf,Indonesian,Italy,Java,Jamaica,Kentucky Fire-Cured,Ligero,Maduro,Mexico,Oscuro,Panama,Peru,Phillipines,Rosado,San Andres,Sumatra,Sun Grown,Syria,Triple Maduro,Undisclosed,Various",0,0,1,1,"2021-07-06 04:04:05"
+64,"Size (Ring Gauge - Machine Made)",64,active,TextBox,"Size Ring Guage",size_ring_guage_machine_made,,1,1,0,1,"2021-07-06 04:04:05"
+65,"Size (Length - Machine Made)",65,active,TextBox,"Size Length",size_length_machine_made,,1,1,0,1,"2021-07-06 04:04:05"
+66,"Tip (Machine-Made)",66,active,CheckBox,Tip,tip_machine_made,false,1,0,0,1,"2021-07-06 04:04:05"
+67,"Flavored (Machine-Made)",67,active,CheckBox,Flavored,flavored_machine_made,false,1,0,0,1,"2021-07-06 04:04:05"
+68,"Wrapper Type (Machine-Made)",68,active,DropDown,"Wrapper Type",wrapper_type_machine_made,"Natural Leaf,Homogenized",1,0,0,1,"2021-07-06 04:04:05"
+69,"Style (Odor Eliminator)",69,active,DropDown,"Odor Eliminator",style_oder_eliminator,"Candle,Spray,Air Freshener",1,0,0,1,"2021-07-06 04:04:05"
+70,"Family (Pipe Tobacco)",70,active,DropDown,Family,family_pipe_tobacco,"Aromatic,Balkan,Blending,Burley,Cigar-leaf,English,Oriental,Scottish,VaPer,Virginia",0,0,0,1,"2021-07-06 04:04:05"
+71,"Cut (Pipe Tobacco)",71,active,DropDown,Cut,cut_pipe_tobacco,"Broken Flake,Cake,Coarse Cut,Coin,Cube Cut,Flake,Plug,Ready-rubbed,Ribbon,Rope,Shag",0,0,0,1,"2021-07-06 04:04:05"
+72,"Strength (Pipe Tobacco)",72,active,DropDown,Strength,strength_pipe_tobacco,"Extra Mellow,Mellow,Medium,Full,Extra Full",0,0,0,1,"2021-07-06 04:04:05"
+73,"Weight (Pipe Tobacco)",73,active,TextBox,Weight,weight_pipe_tobacco,,0,1,0,1,"2021-07-06 04:04:05"
+74,"Country of Origin (Premium Cigars)",74,active,DropDown,"Country of Origin",country_of_origin_premium_cigars,"America,Bahamas,Brazil,Costa Rica,Dominican Republic,Ecuador,Honduras,Nicaragua,Mexico,Peru,Spain",1,0,0,1,"2021-07-06 04:04:05"
+75,"Filler (Premium Cigars)",75,active,DropDown,"Filler Style",filler_premium_cigars,"Long,Mixed,Short",0,0,1,1,"2021-07-06 04:04:05"
+76,"Material (RYO Machines)",76,active,DropDown,Material,material_ryo_machines,"Metal,Plastic",0,0,0,1,"2021-07-06 04:04:05"
+77,"Style (RYO Machines)",77,active,DropDown,Style,style_ryo_machines,"Electronic,Manual",0,0,0,1,"2021-07-06 04:04:05"
+78,"Weight (in oz) (RYO Tobacco)",78,active,TextBox,"Weight (in oz)",weight_ryo_tobacco,,1,1,0,1,"2021-07-06 04:04:05"
+79,"Blend (RYO Tobacco)",79,active,DropDown,Blend,blend_ryo_tobacco,"Extra Mellow,Mellow,Natural,Regular,Turkish,Menthol",0,0,0,1,"2021-07-06 04:04:05"
+80,"Strength (Samplers)",80,active,DropDown,Strength,strength_samplers,"Mellow,Mellow-Medium,Medium,Medium-Full,Full,Extra Full,Various",0,0,0,1,"2021-07-06 04:04:05"
+81,"Shape (Samplers)",81,active,DropDown,Shape,shape_samplers,"Belicoso,Chisel,Culebra,Diademas,Figurado,Flat,Lancero,Perfecto,Pigtail,Pyramid,Regular,Torpedo,Various",0,0,0,1,"2021-07-06 04:04:05"
+82,"Size (Ring Gauge - Samplers)",82,active,TextBox,"Size Ring Guage",size_ring_guage_samplers,,1,1,0,1,"2021-07-06 04:04:05"
+83,"Size (Length - Samplers)",83,active,TextBox,"Size Length",size_length_samplers,,1,1,0,1,"2021-07-06 04:04:05"
+84,"Flavor (Samplers)?",84,active,CheckBox,Flavor?,flavor_samplers,false,1,0,0,1,"2021-07-06 04:04:05"
+85,"Additional Items (Multiselect - Samplers)",85,active,DropDown,"Additional Items",additional_items_samplers,"Cutter,Lighter,Ashtray,Humidor",0,0,1,1,"2021-07-06 04:04:05"
+86,"Quantity (Wraps)",86,active,TextBox,Quantity,quantity_wraps,,1,1,0,1,"2021-07-06 04:04:05"
+87,"Flavor (Wraps)",87,active,DropDown,Flavor,flavor_wraps,"Apple,Blue,Blueberry,Cherry,Chocolate,Cognac,Dragonberry,Gold,Grape,Green,Honey,Mango,Melon,Orange,Peach,Pineapple,Pink,Platinum,Purple,Straight Up,Strawberry,Sweet,Vanilla,Watermelon",0,0,0,1,"2021-07-06 04:04:05"
+88,"Material (Wraps)",88,active,DropDown,Material,material_wraps,"Hemp,Tobacco,Homogenized",0,0,0,1,"2021-07-06 04:04:05"
